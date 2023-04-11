@@ -1,6 +1,6 @@
 # Проект 0. Игра 'Угадай число'
 ## Оглавление
-1. Описание проекта(https://github.com/Andy-Pol/Skillfactory_Data_Science_course/tree/master/Project_1[## Описание проекта])
+1. Описание проекта[https://github.com/Andy-Pol/Skillfactory_Data_Science_course/tree/master/Project_1](## Описание проекта)
 2. Какой кейс решаем?
 3. Краткая информация о данных
 4. Этапы работы над проектом
