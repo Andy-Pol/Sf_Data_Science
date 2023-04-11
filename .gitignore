@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Folder/Files to ignore
+.DS_Store
+data/
+**/__pycache__/
+.log
+.csv
