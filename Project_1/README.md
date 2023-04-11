@@ -1,11 +1,12 @@
 # Проект 1. Анализ резюме из HeadHunter
+
 ## Оглавление
-1. Описание проекта
-2. Какой кейс решаем?
-3. Краткая информация о данных
-4. Этапы работы над проектом
-5. Результат
-6. Выводы
+[1. Описание проекта](https://github.com/Andy-Pol/Skillfactory_Data_Science_course/tree/master/Project_1#Описание-проекта)
+[2. Какой кейс решаем?](https://github.com/Andy-Pol/Skillfactory_Data_Science_course/tree/master/Project_1#Какой-кейс-решаем)
+[3. Краткая информация о данных](https://github.com/Andy-Pol/Skillfactory_Data_Science_course/tree/master/Project_1#Краткая-информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/Andy-Pol/Skillfactory_Data_Science_course/tree/master/Project_1#Этапы-работы-над-проектом)
+[5. Результат](https://github.com/Andy-Pol/Skillfactory_Data_Science_course/tree/master/Project_1#Результат)
+[6. Выводы](https://github.com/Andy-Pol/Skillfactory_Data_Science_course/tree/master/Project_1#Выводы)
 
 ## Описание проекта
 В нашем распоряжении база резюме, выгруженная с сайта поиска вакансий hh.ru. Файл с исходными данными можно скачать здесь.
