@@ -134,3 +134,4 @@ data/
 **/__pycache__/
 .log
 .csv
+SF_DS_training/
