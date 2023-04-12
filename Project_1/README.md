@@ -1,5 +1,9 @@
 # Проект 1. Анализ резюме из HeadHunter
 
+## Ссылки на данные для проекта:
+HH_base (https://disk.yandex.ru/d/_Mbgsxj8KV_ycg)
+Exchange_Rate (https://disk.yandex.ru/d/uC66NVSaXXEklg)
+
 ## Оглавление
 [1. Описание проекта](https://github.com/Andy-Pol/Skillfactory_Data_Science_course/tree/master/Project_1#Описание-проекта)
 [2. Какой кейс решаем?](https://github.com/Andy-Pol/Skillfactory_Data_Science_course/tree/master/Project_1#Какой-кейс-решаем)
